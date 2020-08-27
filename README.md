@@ -1,1 +1,1 @@
-This contains the code to my portfolio website.
+This repository contains the code to my portfolio website.
